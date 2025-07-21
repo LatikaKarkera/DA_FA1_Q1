@@ -7,8 +7,10 @@ How would you apply the Law of Large Numbers and Central Limit Theorem to ensure
 What preprocessing steps would you take before analysis?
 
 Output:
-<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/e58fcf46-6a90-4917-8a14-5c151e9485fa" />
+<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/a2e455c0-563c-42d7-98ad-925d990d6142" />
 
-<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/5bcf5aa7-fd26-4f98-b58f-cd949531e117" />
+<img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/4d00e499-35ca-4acd-9d57-318d0f7add05" />
 
-<img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/3c804f34-ac05-41f3-a912-1ef2189900c9" />
+<img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/7285e6f2-a416-471d-880b-ff7003975e95" />
+
+
